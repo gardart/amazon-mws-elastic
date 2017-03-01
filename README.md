@@ -1,5 +1,12 @@
 # amazon-mws-elastic
-Upload Amazon sellercentral reports into Elastic (ELK stack) - Logstash filters
+Upload Amazon sellercentral reports into Elastic (ELK stack).
+Currently supports the following reports
+
+* Amazon Fulfilled Shipments Report
+https://www.amazon.com/gp/help/customer/display.html?ie=UTF8&nodeId=200592790
+
+* All Orders Report
+https://www.amazon.com/gp/help/customer/display.html/ref=hp_left_sib?ie=UTF8&nodeId=200592830
 
 # Installation
 
