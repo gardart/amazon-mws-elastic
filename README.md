@@ -3,13 +3,13 @@ Upload Amazon sellercentral reports into Elastic (ELK stack) - Logstash filters
 
 # Installation
 
-## Install Elasticsearch
+### Install Elasticsearch
 https://www.elastic.co/downloads/elasticsearch
 
-## Install Logstash
+### Install Logstash
 https://www.elastic.co/downloads/logstash
 
-## Install Kibana
+### Install Kibana
 https://www.elastic.co/downloads/kibana
 
 ## Configure Logstash
